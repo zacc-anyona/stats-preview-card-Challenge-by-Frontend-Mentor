@@ -30,8 +30,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GITHUB](https://github.com/zacc-anyona/stats-preview-card-Challenge-by-Frontend-Mentor)
-- Live Site URL: [View using NETLIFY](https://your-live-site-url.com)
-- Live Site URL: [View using VERCEL]()
+- Live Site URL: [View using NETLIFY](https://stats-previe-card.netlify.app/)
+- Live Site URL: [View using VERCEL](https://stats-preview-card-challenge-by-frontend-mentor.vercel.app/)
 
 ## My process
   1. Understood and familiarised myself with the challenge instructions and requirements.
